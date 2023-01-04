@@ -1,0 +1,120 @@
+.i1{
+    width: 600px;
+    height: 30px;
+    border-radius: 25px;
+    
+   
+}
+
+.d1{
+    
+    width: 20%;
+    height: auto;
+    float: left;
+}
+
+.d2{
+   
+    width: 79%;
+    height: auto;
+    float: right;
+}
+
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9,.b10{
+    background-color: white;
+    border: none;
+    padding: 12px  70px;
+    cursor: pointer;
+    border-radius: 25px; 
+}
+.b1:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b2:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b3:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b4:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b5:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b6:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b7:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b8:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b9:hover{
+    background-color: gray;
+    border: 1px;
+}
+.b10:hover{
+    background-color: gray;
+    border: 1px;
+}
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8,.f9{
+    border-radius: 15px;
+}
+.bu1,.bu2,.bu3,.bu4,.bu5,.bu6,.bu7,.bu8,.bu9,.bu10{
+    background-color: lightgray;
+    border: none;
+    padding: 10px  25px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.bu1:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu2:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu3:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu4:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu5:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu6:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu7:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu8:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu9:hover{
+    background-color: gray;
+    border: 1px;
+}
+.bu10:hover{
+    background-color: gray;
+    border: 1px;
+}
+
